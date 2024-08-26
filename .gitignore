@@ -1,0 +1,15 @@
+
+*.sketch
+
+node_modules
+dist
+dist-ssr
+*.local
+
+design
+.vscode/*
+!.vscode/extensions.json
+*.xd
+*.fig
+
+.DS_Store
